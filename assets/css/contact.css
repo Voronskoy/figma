@@ -1,0 +1,47 @@
+.main-contact{
+    padding: 15px;
+}
+.title{
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: Roboto, sans-serif;
+}
+.phone{
+    display:block;
+    font-size: 26px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+.mail{
+    font-size: 22px;
+}
+.address{
+    margin: 30px 0;
+    font-size: 22px;
+}
+.main-social{
+    display: flex;
+}
+.map{
+    width: 100%;
+    height: 410px;
+}
+
+.map-out{
+    position: relative;
+}
+.flag{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+
+
+@media screen and (min-width:768px){
+    
+}
+
+@media screen and (min-width:1200px){
+    
+}
